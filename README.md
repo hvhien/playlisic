@@ -2,8 +2,12 @@
 
 # run project with local
 ## step 1:
-  `npm insall`
+  ```bash
+    npm install
+  ```
 ## step 2:
-  `npm start`
+  ```bash
+    npm start
+  ```
 ## step 3:
   click [here](http://localhost:3000/), project running on your brower with link localhost:3000
